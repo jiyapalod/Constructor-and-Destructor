@@ -1,3 +1,4 @@
+//Constructor outside a calss
 #include<iostream>
 using namespace std;
 class Student
