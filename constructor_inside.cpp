@@ -1,3 +1,4 @@
+//Constructor inside a class
 #include<iostream>
 using namespace std;
 class Date
